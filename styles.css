@@ -1,0 +1,29 @@
+.myJumbo {
+    background-color: aqua;
+}
+
+body {
+  background-image: url('./assets/EngineerImage.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.myCont{
+ display: flex;
+ justify-content: center;
+}
+
+.myCard{
+    display:flex;
+ width:75%;
+ height:auto;
+ background-color: antiquewhite;
+}
+
+.myImg{
+    display: flex;
+    justify-self: center;
+    align-self: center;
+    width:500px;
+    height:auto;
+}
